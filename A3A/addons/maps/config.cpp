@@ -50,6 +50,7 @@ class CfgMissions
         A3A_Mission(UMB_Colombia)
         A3A_Mission(vn_khe_sanh)
         A3A_Mission(vt7)
+        A3A_Mission(mehland)
 #if __A3_DEBUG__
         A3A_Mission(Stratis)
         A3A_Mission(isladuala3)//set to debug only until map is fixed
